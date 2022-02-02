@@ -26,6 +26,7 @@ nbproject
 .idea
 
 # Folders to ignore
+.venv
 .vscode
 node_modules
 ts_build
